@@ -2,46 +2,24 @@ p {
   font-size: 1.3em;
   color: white;
   font-family: "Lucida Console", "Courier New", "Arial";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%)
-
 }
 
 a { 
   font-size: 1.3em;
   color: white;
   font-family: "Lucida Console", "Courier New", "Arial";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%)
-
 }
 
 h1 { 
   font-size: 2.0em;
   color: white;
   font-family: "Lucida Console", "Courier New", "Arial";
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%)
 }
 
 h2 { 
   font-size: 1.5em;
   color: white;
   font-family: "Lucida Console", "Courier New", "Arial";
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%)
 }
 
 body {
