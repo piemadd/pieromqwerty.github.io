@@ -45,8 +45,7 @@ h2 {
 }
 
 body {
-  background-image: linear-gradient(to bottom right, red, yellow);
-  background: linear-gradient(113deg, #c12222, #eedf07);
+  background: linear-gradient(113deg, #c12222, #eea207);
   background-size: 400% 400%;
   animation: background-gradient 11s ease infinite;
 }
