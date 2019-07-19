@@ -45,7 +45,7 @@ h2 {
 }
 
 body {
-  background: linear-gradient(113deg, #c12222, #eea207);
+  background: linear-gradient(113deg, #c12222, #ee8d07);
   background-size: 400% 400%;
   animation: background-gradient 11s ease infinite;
 }
