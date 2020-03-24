@@ -1,1 +1,0 @@
-cd %~dp0 && set __COMPAT_LAYER=RUNASINVOKER && call yeet.exe
