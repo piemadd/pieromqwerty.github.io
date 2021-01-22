@@ -4,6 +4,7 @@ body {
     line-height: 0;
     word-wrap: break-word;
     font-size: 14;
+	user-select: none;
 }
 .text-black {
     color: #000;
